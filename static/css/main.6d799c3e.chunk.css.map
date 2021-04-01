@@ -1,0 +1,1 @@
+{"version":3,"sources":["postList.scss","app.scss"],"names":[],"mappings":"AAEE,iBACE,eAAgB,CCHpB,KACE,gBAAiB,CACjB,aAAc","file":"main.6d799c3e.chunk.css","sourcesContent":[".post-list {\n\n  &__item {\n    list-style: none;\n  }\n}\n",".app {\n  max-width: 1200px;\n  margin: 0 auto;\n}\n"]}
